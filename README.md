@@ -5,7 +5,7 @@
 
 This project,operationalizes a Machine Learning Microservice API which has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on.  This serves out predictions (inference) about housing prices through API calls. 
 
-The repo stated below has all required and complete files (including run_kubernetes.sh, run_docker.sh, docker_out.txt, kubernetes_out.txt, and a .circleci build directory).
+The repo stated below has all required and complete files (including run_kubernetes.sh, run_docker.sh, docker_out.txt, kubernetes_out.txt, and a .circleci build directory)under the folder project-ml-microservice-kubernetes.
 
 
 CircleCI success link : https://app.circleci.com/pipelines/github/mageshkv/DevOps_Microservices
